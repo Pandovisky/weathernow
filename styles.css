@@ -17,10 +17,10 @@ body {
 }
 
 .day {
-    background: linear-gradient(rgb(251, 255, 0), rgb(47,150,163));
+    background: linear-gradient(rgb(33, 229, 255), rgb(61, 110, 245));
 }
 .night {
-    background: linear-gradient(rgb(47,150,163), rgb(48, 62, 143));
+    background: linear-gradient(rgb(33, 24, 114), rgb(9, 16, 83));
 }
 .location, .temperature {
     height: 30vh;
